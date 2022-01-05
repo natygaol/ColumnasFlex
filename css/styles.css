@@ -3,6 +3,7 @@
 }
 
 .col, .col-2, .col-3 {
+  height: 100px;
   padding: 10px;
   margin: 10px;
   background-color: darkcyan;
